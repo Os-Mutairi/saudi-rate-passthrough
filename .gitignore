@@ -1,0 +1,22 @@
+# Raw downloads are not redistributed: see data/raw/README.md for how to
+# download them (source terms, including IMF terms for the oil series).
+data/raw/*
+!data/raw/README.md
+
+# Processed files that republish SAMA (and IMF oil) series month by month.
+# SAMA's website terms do not clearly cover public redistribution, so these
+# are regenerated locally by running the scripts. See README, "Data sources,
+# attribution and sharing".
+data/processed/monthly_panel.csv
+data/processed/sama_policy_daily.csv
+data/processed/sama_policy_monthly_avg.csv
+data/processed/real_estate_quarterly.csv
+data/processed/credit_regimes.csv
+data/processed/monthly_changes.csv
+
+# System and editor files
+.DS_Store
+__pycache__/
+*.pyc
+.spyproject/
+.ipynb_checkpoints/
