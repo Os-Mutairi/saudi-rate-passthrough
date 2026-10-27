@@ -1,0 +1,17 @@
+series,first,last,months,missing_months,missing_in_sample
+fed_upper,2008-12,2026-10,215,0,0
+fed_lower,2008-12,2026-10,215,0,0
+fed_mid,2008-12,2026-10,215,0,0
+fed_mid_avg,2008-12,2026-10,215,0,0
+sama_repo,2007-01,2026-08,236,0,0
+sama_reverse_repo,2007-01,2026-08,236,0,0
+saibor_3m,2007-01,2026-08,236,0,0
+diff_sar_usd_3m,2007-01,2026-08,236,0,0
+credit_loans_advances,1993-01,2026-08,404,0,0
+credit_bills_discounted,1993-01,2026-08,404,0,0
+credit_total,1993-01,2026-08,404,0,0
+private_securities,1993-01,2026-08,404,0,0
+claims_grand_total,1993-01,2026-08,404,0,0
+credit_total_yoy,1994-01,2026-08,392,0,0
+brent_usd,1992-01,2026-07,415,0,0
+dubai_usd,1992-01,2026-07,415,0,0

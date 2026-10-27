@@ -1,0 +1,4 @@
+variant,N,R2,all_13_policy_lags_zero_p,oil_terms_zero_p,resid_lag1_corr,BreuschGodfrey12_p,BreuschGodfrey24_p
+"Next-day timing, Brent (MAIN)",198,0.254,0.003,0.433,0.392,<0.001,<0.001
+"Same-day timing, Brent",198,0.253,0.005,0.416,0.392,<0.001,<0.001
+"Next-day timing, Dubai",198,0.255,<0.001,0.195,0.392,<0.001,<0.001

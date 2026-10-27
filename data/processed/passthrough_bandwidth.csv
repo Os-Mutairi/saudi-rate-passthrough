@@ -1,0 +1,16 @@
+spec,policy,headline,hac_bandwidth,estimate,ci_low,ci_high,ci_includes_1
+A baseline,"Reverse repo, next-day timing (MAIN)",sum 0-3,4,0.7998514489254253,0.5334402890387009,1.0662626088121496,True
+A baseline,"Reverse repo, next-day timing (MAIN)",sum 0-3,6,0.7998514489254253,0.574819158497194,1.0248837393536565,True
+A baseline,"Reverse repo, next-day timing (MAIN)",sum 0-3,12,0.7998514489254253,0.6274778415299138,0.9722250563209367,False
+A baseline,"Reverse repo, same-day timing",sum 0-3,4,0.8005990918500192,0.5359654218962342,1.0652327618038042,True
+A baseline,"Reverse repo, same-day timing",sum 0-3,6,0.8005990918500192,0.577810754962677,1.0233874287373614,True
+A baseline,"Reverse repo, same-day timing",sum 0-3,12,0.8005990918500192,0.6295916173519673,0.9716065663480711,False
+A baseline,"Repo, next-day timing (robustness)",sum 0-3,4,0.8127543013706041,0.5412715257252975,1.0842370770159109,True
+A baseline,"Repo, next-day timing (robustness)",sum 0-3,6,0.8127543013706041,0.5859643086167823,1.039544294124426,True
+A baseline,"Repo, next-day timing (robustness)",sum 0-3,12,0.8127543013706041,0.6410394108656546,0.9844691918755536,False
+B + lagged dSAIBOR,"Reverse repo, next-day timing (MAIN)",multiplier,4,0.7612855385023721,0.40857067641217204,1.1140004005925723,True
+B + lagged dSAIBOR,"Reverse repo, next-day timing (MAIN)",multiplier,6,0.7612855385023721,0.4584169368154826,1.0641541401892616,True
+B + lagged dSAIBOR,"Reverse repo, next-day timing (MAIN)",multiplier,12,0.7612855385023721,0.5367028214916905,0.9858682555130538,False
+B + lagged dSAIBOR,"Reverse repo, same-day timing",multiplier,4,0.7624961614901414,0.4121318383613833,1.1128604846188996,True
+B + lagged dSAIBOR,"Reverse repo, same-day timing",multiplier,6,0.7624961614901414,0.4630609971198131,1.0619313258604697,True
+B + lagged dSAIBOR,"Reverse repo, same-day timing",multiplier,12,0.7624961614901414,0.539757956838184,0.9852343661420989,False

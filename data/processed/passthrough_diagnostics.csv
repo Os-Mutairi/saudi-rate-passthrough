@@ -1,0 +1,6 @@
+spec,policy,N,R2,joint_lags1_3_chi2,joint_lags1_3_p,resid_lag1_corr,LjungBox6_p,BreuschGodfrey6_p,BreuschGodfrey12_p
+A baseline,"Reverse repo, next-day timing (MAIN)",207,0.442,3.4,0.334,0.318,<0.001,<0.001,<0.001
+A baseline,"Reverse repo, same-day timing",207,0.442,3.36,0.339,0.309,<0.001,<0.001,<0.001
+A baseline,"Repo, next-day timing (robustness)",207,0.444,4.21,0.240,0.315,<0.001,<0.001,<0.001
+B + lagged dSAIBOR,"Reverse repo, next-day timing (MAIN)",207,0.502,13.35,0.004,0.123,<0.001,<0.001,<0.001
+B + lagged dSAIBOR,"Reverse repo, same-day timing",207,0.498,15.72,0.001,0.115,<0.001,<0.001,<0.001
